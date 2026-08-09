@@ -7,6 +7,7 @@
   overflow-x: auto;
   overflow-y: hidden;
 }
+
 .main {
   position: absolute;
   height: 571px;
@@ -16,6 +17,7 @@
   min-width: 692px;
   margin: 0 auto;
 }
+
 .main_content {
   height: 650px;
   width: 100%;
@@ -25,6 +27,7 @@
   align-items: center;
   justify-content: center;
 }
+
 header {
   position: relative;
   width: 100%;
@@ -35,20 +38,24 @@ header {
   align-items: center;
   box-shadow: 0 0 1px 1px var(--border_color);
 }
-header > h1 {
+
+header>h1 {
   color: #ffffff;
   padding: 0 40px;
   font-weight: 600;
   font-size: 1.6rem;
   letter-spacing: 0.5px;
 }
-header > div,header > div >img{
-    display: flex;
-    height: 100%;
-    width: 180px;
-    object-fit: cover;
-    margin-left: 10px;
+
+header>div,
+header>div>img {
+  display: flex;
+  height: 100%;
+  width: 180px;
+  object-fit: cover;
+  margin-left: 10px;
 }
+
 .div_header {
   display: flex;
   position: relative;
@@ -58,6 +65,7 @@ header > div,header > div >img{
   border-bottom: 1.8px solid #e5e5e5;
   justify-content: space-between;
 }
+
 .text {
   transform: translate(-88px, 8.2px);
   color: #2d4663;
@@ -67,6 +75,7 @@ header > div,header > div >img{
   position: relative;
   letter-spacing: 0.3px;
 }
+
 .text::before {
   content: "";
   position: absolute;
@@ -77,9 +86,11 @@ header > div,header > div >img{
   height: 4px;
   background-color: #feee23;
 }
+
 .close {
   transform: translate(-21px, 17px);
 }
+
 .div_box,
 .div_info {
   display: flex;
@@ -89,30 +100,37 @@ header > div,header > div >img{
   width: 100%;
   transform: translate(0px, 20.5px);
 }
+
 .div_box {
   height: 355px;
 }
+
 .div_info {
   height: 124px;
 }
+
 .extra,
 .class-box {
   border-top: 1.8px solid #c4c8ca;
   border-bottom: 2.9px solid #c4c8ca;
   height: 100%;
 }
+
 .extra {
   width: 15.3px;
 }
+
 .class-box {
   display: flex;
   justify-content: space-between;
 }
+
 .info {
   display: flex;
   height: 100%;
   justify-content: space-between;
 }
+
 .striker,
 .special,
 .striker_info,
@@ -121,6 +139,7 @@ header > div,header > div >img{
   flex-direction: row;
   height: 100%;
 }
+
 .bar_graph {
   display: flex;
   flex-flow: column-reverse wrap-reverse;
@@ -130,9 +149,11 @@ header > div,header > div >img{
   width: var(--wbox);
   overflow: visible;
 }
+
 .bar_graph:nth-child(even of :not([style*="display: none"])) {
   background-color: #eeeeed;
 }
+
 .bar {
   transform: translate(-0.5px, 1px);
   position: relative;
@@ -142,6 +163,7 @@ header > div,header > div >img{
   height: 10px;
   width: 27px;
 }
+
 .box {
   position: relative;
   transform: translate(0px, -6px);
@@ -154,6 +176,7 @@ header > div,header > div >img{
   box-sizing: content-box;
   padding: 0 6.2px;
 }
+
 .bubble {
   z-index: -1;
   position: absolute;
@@ -162,6 +185,7 @@ header > div,header > div >img{
   background-color: #3e444a;
   transform: translate(calc(50% - 2.5px), 22px) rotate(45deg);
 }
+
 .number {
   font-weight: 600;
   color: #ffffff;
@@ -169,11 +193,13 @@ header > div,header > div >img{
   transform: translateY(-2.8px);
   letter-spacing: -1.4px;
 }
+
 .data {
   position: relative;
   z-index: 2;
   width: var(--wbox);
 }
+
 .imagen {
   transform: translate(16px, 8.5px) skew(-10deg, 0deg);
   display: flex;
@@ -186,6 +212,7 @@ header > div,header > div >img{
   align-items: center;
   background: url("../icons/background.webp") center/145% 112% no-repeat;
 }
+
 .name {
   font-size: 20px;
   font-style: oblique 90deg;
@@ -196,16 +223,19 @@ header > div,header > div >img{
   transform: translate(-6.8px, 14.7px);
   line-height: 20.8px;
 }
+
 .base {
   position: relative;
   transform: translate(calc(113px + 0 * var(--wbox)), -294.1px);
 }
+
 .icons {
   transform: skew(10deg, 0deg) translateX(-0.5px);
   width: 110%;
   height: 105%;
   object-fit: cover;
 }
+
 .input_table {
   display: flex;
   flex-direction: column;
@@ -217,6 +247,7 @@ header > div,header > div >img{
   background-color: #ffffff;
   border-radius: 8px;
 }
+
 .main_values {
   display: flex;
   flex-flow: row wrap;
@@ -226,6 +257,7 @@ header > div,header > div >img{
   padding-bottom: 25px;
   border-bottom: 1px solid var(--border_color);
 }
+
 .division {
   display: flex;
   flex-flow: row wrap;
@@ -233,6 +265,7 @@ header > div,header > div >img{
   gap: 30px;
   margin-right: 100px;
 }
+
 .title,
 .number_std {
   display: flex;
@@ -242,20 +275,24 @@ header > div,header > div >img{
   font-size: 14px;
   color: var(--text_main);
 }
+
 .radio-group {
   display: flex;
   align-items: center;
   gap: 8px;
   height: 40px;
 }
+
 .radio-group input {
   accent-color: var(--color_accent);
   cursor: pointer;
 }
+
 .radio-group label {
   margin-right: 10px;
   cursor: pointer;
 }
+
 #number_studient,
 .damage,
 .element input[placeholder="Name"],
@@ -271,27 +308,32 @@ header > div,header > div >img{
   height: 40px;
   transition: all 0.2s ease;
 }
+
 .title-input:focus,
 .damage:focus,
 .element input[placeholder="Name"]:focus,
-.custom-select-trigger:focus{
+.custom-select-trigger:focus {
   box-shadow: 0 0 1.5px 1.5px var(--border_color);
 }
+
 .title-input:hover,
 .damage:hover,
 .element input[placeholder="Name"]:hover,
-.custom-select-trigger:hover{
+.custom-select-trigger:hover {
   box-shadow: 0 0 1.5px 1.5px var(--border_color);
 }
+
 .damage::placeholder,
 .element input[placeholder="Name"]::placeholder {
   color: #94a3b8;
   font-weight: 400;
 }
+
 .title-input {
   max-width: 220px;
   min-width: 100px;
 }
+
 .btn {
   padding: 0 20px;
   height: 40px;
@@ -303,31 +345,39 @@ header > div,header > div >img{
   font-size: 14px;
   transition: background-color 0.2s;
 }
+
 #btn_title {
   background: var(--color_background);
   margin-left: -5px;
 }
+
 #btn_title:hover {
   background-color: var(--color_accent_hover);
 }
+
 #btn_title:active {
   background-color: var(--color_accent);
 }
+
 .download {
   background: var(--color_download_background);
   margin-right: auto;
 }
+
 .download:hover {
   background-color: var(--color_download_hover);
 }
+
 .download:active {
   background-color: var(--color_download);
 }
+
 .button {
   display: flex;
   gap: 10px;
   margin-top: 5px;
 }
+
 .button button {
   flex: 1;
   padding: 10px 0;
@@ -339,12 +389,15 @@ header > div,header > div >img{
   transition: all 0.2s ease;
   color: #ffffff;
 }
+
 .button button:first-child {
   background: var(--color_background);
 }
+
 .button button:first-child:hover {
   background-color: var(--color_accent_hover);
 }
+
 .button button:first-child:active {
   background-color: var(--color_accent);
 }
@@ -352,20 +405,25 @@ header > div,header > div >img{
 .button button:last-child {
   background: var(--color_danger_background);
 }
+
 .button button:last-child:hover {
   background-color: var(--color_danger_hover);
 }
+
 .button button:last-child:active {
   background-color: var(--color_danger);
 }
+
 .button button:last-child:disabled {
   border-color: transparent;
 }
+
 .table {
   display: flex;
   flex-flow: row wrap;
   gap: 15px;
 }
+
 .element {
   display: flex;
   flex-direction: column;
@@ -378,28 +436,35 @@ header > div,header > div >img{
   color: var(--text_main);
   transition: all 0.2s ease;
 }
+
 .element:hover {
   border-color: #d1d9e279;
   background-color: #d1d9e279;
 }
+
 .element.is-set {
   background-color: var(--border_color);
   border-color: var(--border_color);
 }
+
 .element.is-set:hover {
   filter: brightness(0.984);
 }
+
 .titleTable {
   font-size: 20px;
   font-weight: 600;
   border-bottom: 1px solid var(--border_color);
 }
+
 .striker_color {
   color: #f44b23;
 }
+
 .special_color {
   color: #007eff;
 }
+
 .striker_table,
 .special_table {
   padding-top: 25px;
@@ -408,15 +473,18 @@ header > div,header > div >img{
   gap: 20px;
   color: var(--color_main);
 }
+
 .secundary_values {
   display: flex;
   flex-direction: column;
   gap: 30px;
 }
+
 .custom-select-wrapper {
   position: relative;
   width: 100%;
 }
+
 .custom-select-trigger {
   padding: 8px 12px;
   border: 1px solid var(--border_color);
@@ -435,6 +503,7 @@ header > div,header > div >img{
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
 .custom-select-trigger::after {
   content: "▼";
   font-size: 10px;
@@ -442,12 +511,15 @@ header > div,header > div >img{
   margin-left: 10px;
   transition: transform 0.2s ease;
 }
+
 .custom-select-wrapper.open .custom-select-trigger::after {
   transform: rotate(180deg);
 }
+
 .custom-select-wrapper.open .custom-select-trigger {
   box-shadow: 0 0 2px 2px var(--border_color);
 }
+
 .custom-select-options {
   display: none;
   position: absolute;
@@ -462,13 +534,16 @@ header > div,header > div >img{
   margin-top: 4px;
   flex-direction: column;
 }
+
 .custom-select-wrapper.open .custom-select-options {
   display: flex;
 }
+
 .options-list {
   max-height: 200px;
   overflow-y: auto;
 }
+
 .custom-option {
   padding: 8px 12px;
   display: flex;
@@ -479,9 +554,11 @@ header > div,header > div >img{
   color: var(--text_main);
   transition: background-color 0.2s;
 }
+
 .custom-option:hover {
   background-color: #f8fafc;
 }
+
 .custom-option-img {
   width: 30px;
   height: 30px;
@@ -489,6 +566,7 @@ header > div,header > div >img{
   flex-shrink: 0;
   object-fit: cover;
 }
+
 .trigger-img {
   width: 25px;
   height: 25px;
@@ -496,6 +574,7 @@ header > div,header > div >img{
   margin-right: 8px;
   object-fit: cover;
 }
+
 footer {
   width: 100%;
   height: 120px;
@@ -505,7 +584,8 @@ footer {
   align-items: center;
   box-shadow: 0 0 10px 10px var(--border_color);
 }
-footer > div {
+
+footer>div {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -514,40 +594,49 @@ footer > div {
   color: white;
   font-size: 1rem;
 }
-footer > div > a {
+
+footer>div>a {
   color: white;
   font-size: 1rem;
 }
-.alert{
+
+.alert {
   border: 1px solid var(--color_danger);
   box-shadow: 0 0 1px 1px var(--color_danger);
 }
+
 @media (max-width: 1108.52px) {
   .main_content {
     justify-content: start;
   }
+
   .mainbox {
     justify-content: flex-start;
   }
-  .division{
+
+  .division {
     margin: auto;
   }
+
   header {
     height: auto;
-    flex-direction:column;
+    flex-direction: column;
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  header > h1{
-    text-align: center;    
+
+  header>h1 {
+    text-align: center;
   }
-  footer{
-  flex-direction: column;
-  gap: 10px;
-  height: auto;
-  align-items: center;
+
+  footer {
+    flex-direction: column;
+    gap: 10px;
+    height: auto;
+    align-items: center;
   }
-  footer > div{
-  margin: 10px;
+
+  footer>div {
+    margin: 10px;
   }
 }
