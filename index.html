@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Archive Damage Report Generator</title>
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="shortcut icon" href="icons/icon.ico" type="image/x-icon">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html-to-image/1.11.11/html-to-image.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css" integrity="sha512-ApSLB1Pd3/bZN8fWB/RG9YhN/7bd9Hkf3AGaE2mPfebjrxagjuBtx2GcgdqIlJkUzwylBo61r9Xa9NmgBI0swA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>
+        <div class="logo_header"><img src="icons/BlueArchive_logo.webp" alt=""></div><h1>Blue Archive Damage Report Generator</h1><div></div>
+    </header>
+    <main class="main_content">
+        <div class="mainbox" id="mainbox">
+            <div class="main" id="main">
+                <div class="div_header">
+                    <img class="imgh" src="icons/header.png" alt="">
+                    <div class="text" id="set_title">Damage Report</div>
+                    <div class="close"><img src="icons/close.png" alt=""></div>
+                </div> 
+                <div class="div_box">
+                    <div class="extra"></div>
+                    <div class="class-box" id="class-box">
+                        <div class="striker" id="striker_graph"></div>
+                        <div class="special" id="special_graph"></div>
+                    </div>
+                    <div class="extra" id="extra"></div>
+                </div>
+                <div class="div_info" id="div_info">
+                    <div class="info" id="info">
+                        <div class="striker_info" id="striker_info"></div>
+                        <div class="special_info" id="special_info"></div>
+                    </div>
+                </div>
+                <img class="base" id="base" src="icons/base.png" alt="">
+            </div>
+        </div>
+    </main>
+    <section class="input_table">
+        <div class="main_values">
+            <div class="division">
+                <div class="title">
+                    Title
+                    <input type="text" class="title-input" id="get_title" placeholder="Damage Report" maxlength="19">
+                    <input type="submit" value="Set" id="btn_title" class="btn">
+                </div>
+                <div class="number_std">
+                    <span>Number of students</span>
+                    <div class="radio-group">
+                        <input type="radio" id="num6" name="num_students" value="6" checked>
+                        <label for="num6">6</label>
+                        <input type="radio" id="num10" name="num_students" value="10">
+                        <label for="num10">10</label>
+                    </div>
+                </div>
+            </div>
+            <input type="button" class="download btn" id="download" value="Save image">
+        </div>
+        <div class="secundary_values">
+            <div class="striker_table">
+                <div class="titleTable striker_color">Striker</div>
+                <div class="input_striker">
+                    <div class="table" id="input_striker_table"></div>
+                </div>
+            </div>
+            <div class="special_table">
+                <div class="titleTable special_color">Special</div>
+                <div class="input_special">
+                    <div class="table" id="input_special_table"></div>              
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="disclaimer">
+        This website is a fan project and is not affiliated with NEXON Games or Yostar.
+        </div>
+        <div class="source">
+            <a href="" class="reference"><i class="fa-brands fa-github">‌</i>Source Code</a>
+        </div>
+        <div class="footer_info">
+            <div>Social media</div>
+            <a href="" class="reference">
+                <div><i class="fa-brands fa-x-twitter"></i> Dazull</div>
+            </a>
+        </div>
+    </footer>
+    <script type="module" src="script/main.js"></script>
+</body>
+</html>

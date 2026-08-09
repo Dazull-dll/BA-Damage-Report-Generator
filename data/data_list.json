@@ -1,0 +1,1670 @@
+[
+  {
+    "name": "Airi",
+    "source": "data/data_img/Airi_Icon.webp"
+  },
+  {
+    "name": "Airi (Band)",
+    "source": "data/data_img/Airi_Band_Icon.webp"
+  },
+  {
+    "name": "Airi (Killer)",
+    "source": "data/data_img/Airi_Killer_Icon.webp"
+  },
+  {
+    "name": "Akane",
+    "source": "data/data_img/Akane_Icon.webp"
+  },
+  {
+    "name": "Akane (Bunny)",
+    "source": "data/data_img/Akane_Bunny_Girl_Icon.webp"
+  },
+  {
+    "name": "Akane (School)",
+    "source": "data/data_img/Akane_Schoolgirl_Icon.webp"
+  },
+  {
+    "name": "Akari",
+    "source": "data/data_img/Akari_Icon.webp"
+  },
+  {
+    "name": "Akari (New Year)",
+    "source": "data/data_img/Akari_New_Year_Icon.webp"
+  },
+  {
+    "name": "Akemi",
+    "source": "data/data_img/Akemi_Icon.webp"
+  },
+  {
+    "name": "Akira",
+    "source": "data/data_img/Akira_Icon.webp"
+  },
+  {
+    "name": "Ako",
+    "source": "data/data_img/Ako_Icon.webp"
+  },
+  {
+    "name": "Ako (Ark Uniform)",
+    "source": "data/data_img/Ako_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Ako (Dress)",
+    "source": "data/data_img/Ako_Dress_Icon.webp"
+  },
+  {
+    "name": "Aris",
+    "source": "data/data_img/Alice_Icon.webp"
+  },
+  {
+    "name": "Aris (Armed)",
+    "source": "data/data_img/Alice_Armed_Icon.webp"
+  },
+  {
+    "name": "Aris (Maid)",
+    "source": "data/data_img/Alice_Maid_Icon.webp"
+  },
+  {
+    "name": "Aris (Winter)",
+    "source": "data/data_img/Alice_Winter_Icon.webp"
+  },
+  {
+    "name": "Aoba",
+    "source": "data/data_img/Aoba_Icon.webp"
+  },
+  {
+    "name": "Aoi",
+    "source": "data/data_img/Aoi_Icon.webp"
+  },
+  {
+    "name": "Arata",
+    "source": "data/data_img/Arata_Icon.webp"
+  },
+  {
+    "name": "Arata (Swimsuit)",
+    "source": "data/data_img/Arata_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Arona",
+    "source": "data/data_img/Arona_Icon.webp"
+  },
+  {
+    "name": "Aru",
+    "source": "data/data_img/Aru_Icon.webp"
+  },
+  {
+    "name": "Aru (Dress)",
+    "source": "data/data_img/Aru_Dress_Icon.webp"
+  },
+  {
+    "name": "Aru (New Year)",
+    "source": "data/data_img/Aru_New_Year_Icon.webp"
+  },
+  {
+    "name": "Asuna",
+    "source": "data/data_img/Asuna_Icon.webp"
+  },
+  {
+    "name": "Asuna (Bunny)",
+    "source": "data/data_img/Asuna_Bunny_Girl_Icon.webp"
+  },
+  {
+    "name": "Asuna (School)",
+    "source": "data/data_img/Asuna_Schoolgirl_Icon.webp"
+  },
+  {
+    "name": "Atsuko",
+    "source": "data/data_img/Atsuko_Icon.webp"
+  },
+  {
+    "name": "Atsuko (Swimsuit)",
+    "source": "data/data_img/Atsuko_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Atsuko",
+    "source": "data/data_img/Atsuko_Unmask_Icon.webp"
+  },
+  {
+    "name": "Ayame",
+    "source": "data/data_img/Ayame_Icon.webp"
+  },
+  {
+    "name": "Ayame",
+    "source": "data/data_img/Ayame_Twilight_Icon.webp"
+  },
+  {
+    "name": "Ayane",
+    "source": "data/data_img/Ayane_Icon.webp"
+  },
+  {
+    "name": "Ayane (Ark Uniform)",
+    "source": "data/data_img/Ayane_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Ayane (Pop Idol)",
+    "source": "data/data_img/Ayane_Idol_Icon.webp"
+  },
+  {
+    "name": "Ayane (Robber)",
+    "source": "data/data_img/Ayane_Robber_Icon.webp"
+  },
+  {
+    "name": "Ayane (Swimsuit)",
+    "source": "data/data_img/Ayane_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Ayumu",
+    "source": "data/data_img/Ayumu_Icon.webp"
+  },
+  {
+    "name": "Ayumu (Ark Uniform)",
+    "source": "data/data_img/Ayumu_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Azami",
+    "source": "data/data_img/Azami_Icon.webp"
+  },
+  {
+    "name": "Azami",
+    "source": "data/data_img/Azami_Disguise_Icon.webp"
+  },
+  {
+    "name": "Azusa",
+    "source": "data/data_img/Azusa_Icon.webp"
+  },
+  {
+    "name": "Azusa",
+    "source": "data/data_img/Azusa_Mask_Icon.webp"
+  },
+  {
+    "name": "Azusa (Swimsuit)",
+    "source": "data/data_img/Azusa_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Barbara",
+    "source": "data/data_img/Barbara_Icon.webp"
+  },
+  {
+    "name": "Beatrice",
+    "source": "data/data_img/Beatrice_Icon.webp"
+  },
+  {
+    "name": "Cherino",
+    "source": "data/data_img/Cherino_Icon.webp"
+  },
+  {
+    "name": "Cherino (Hot Spring)",
+    "source": "data/data_img/Cherino_Hot_Spring_Icon.webp"
+  },
+  {
+    "name": "Cherino (Qipao)",
+    "source": "data/data_img/Cherino_Qipao_Icon.webp"
+  },
+  {
+    "name": "Chiaki",
+    "source": "data/data_img/Chiaki_Icon.webp"
+  },
+  {
+    "name": "Chihiro",
+    "source": "data/data_img/Chihiro_Icon.webp"
+  },
+  {
+    "name": "Chihiro (Camp)",
+    "source": "data/data_img/Chihiro_Camp_Icon.webp"
+  },
+  {
+    "name": "Chihiro (Pajamas)",
+    "source": "data/data_img/Chihiro_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Chinatsu",
+    "source": "data/data_img/Chinatsu_Icon.webp"
+  },
+  {
+    "name": "Chinatsu (Hot Spring)",
+    "source": "data/data_img/Chinatsu_Hot_Spring_Icon.webp"
+  },
+  {
+    "name": "Chise",
+    "source": "data/data_img/Chise_Icon.webp"
+  },
+  {
+    "name": "Chise (Swimsuit)",
+    "source": "data/data_img/Chise_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Eimi",
+    "source": "data/data_img/Eimi_Icon.webp"
+  },
+  {
+    "name": "Eimi (Armed)",
+    "source": "data/data_img/Eimi_Armed_Icon.webp"
+  },
+  {
+    "name": "Eimi (Swimsuit)",
+    "source": "data/data_img/Eimi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Ein",
+    "source": "data/data_img/Ein_Icon.webp"
+  },
+  {
+    "name": "Eri",
+    "source": "data/data_img/Eri_Icon.webp"
+  },
+  {
+    "name": "Erika",
+    "source": "data/data_img/Erika_Icon.webp"
+  },
+  {
+    "name": "False President",
+    "source": "data/data_img/False_President_Icon.webp"
+  },
+  {
+    "name": "Fubuki",
+    "source": "data/data_img/Fubuki_Icon.webp"
+  },
+  {
+    "name": "Fubuki (Pop Idol)",
+    "source": "data/data_img/Fubuki_Idol_Icon.webp"
+  },
+  {
+    "name": "Fubuki (Swimsuit)",
+    "source": "data/data_img/Fubuki_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Fuuka",
+    "source": "data/data_img/Fuuka_Icon.webp"
+  },
+  {
+    "name": "Fuuka (Casual)",
+    "source": "data/data_img/Fuuka_Casual_Icon.webp"
+  },
+  {
+    "name": "Fuuka (New Year)",
+    "source": "data/data_img/Fuuka_New_Year_Icon.webp"
+  },
+  {
+    "name": "Fuyu",
+    "source": "data/data_img/Fuyu_Icon.webp"
+  },
+  {
+    "name": "GSC President",
+    "source": "data/data_img/GSC_President_Icon.webp"
+  },
+  {
+    "name": "Haine",
+    "source": "data/data_img/Haine_Icon.webp"
+  },
+  {
+    "name": "Hanae",
+    "source": "data/data_img/Hanae_Icon.webp"
+  },
+  {
+    "name": "Hanae (Cheer Squad)",
+    "source": "data/data_img/Hanae_Cheerleader_Icon.webp"
+  },
+  {
+    "name": "Hanae (Christmas)",
+    "source": "data/data_img/Hanae_Christmas_Icon.webp"
+  },
+  {
+    "name": "Hanako",
+    "source": "data/data_img/Hanako_Icon.webp"
+  },
+  {
+    "name": "Hanako (Ark Uniform)",
+    "source": "data/data_img/Hanako_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Hanako (Swimsuit)",
+    "source": "data/data_img/Hanako_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hare",
+    "source": "data/data_img/Hare_Icon.webp"
+  },
+  {
+    "name": "Hare (Camp)",
+    "source": "data/data_img/Hare_Camp_Icon.webp"
+  },
+  {
+    "name": "Hare (Pajamas)",
+    "source": "data/data_img/Hare_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Haruka",
+    "source": "data/data_img/Haruka_Icon.webp"
+  },
+  {
+    "name": "Haruka (New Year)",
+    "source": "data/data_img/Haruka_New_Year_Icon.webp"
+  },
+  {
+    "name": "Haruka (Suit)",
+    "source": "data/data_img/Haruka_Suit_Icon.webp"
+  },
+  {
+    "name": "Haruna",
+    "source": "data/data_img/Haruna_Icon.webp"
+  },
+  {
+    "name": "Haruna (Track)",
+    "source": "data/data_img/Haruna_Gym_Icon.webp"
+  },
+  {
+    "name": "Haruna (New Year)",
+    "source": "data/data_img/Haruna_New_Year_Icon.webp"
+  },
+  {
+    "name": "Hasumi",
+    "source": "data/data_img/Hasumi_Icon.webp"
+  },
+  {
+    "name": "Hasumi (Track)",
+    "source": "data/data_img/Hasumi_Gym_Icon.webp"
+  },
+  {
+    "name": "Hasumi (Swimsuit)",
+    "source": "data/data_img/Hasumi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hibiki",
+    "source": "data/data_img/Hibiki_Icon.webp"
+  },
+  {
+    "name": "Hibiki (Cheer Squad)",
+    "source": "data/data_img/Hibiki_Cheerleader_Icon.webp"
+  },
+  {
+    "name": "Hifumi",
+    "source": "data/data_img/Hifumi_Icon.webp"
+  },
+  {
+    "name": "Faust",
+    "source": "data/data_img/Hifumi_Robber_Icon.webp"
+  },
+  {
+    "name": "Hifumi (Swimsuit)",
+    "source": "data/data_img/Hifumi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hikari",
+    "source": "data/data_img/Hikari_Icon.webp"
+  },
+  {
+    "name": "Himari",
+    "source": "data/data_img/Himari_Icon.webp"
+  },
+  {
+    "name": "Himari (Ark Uniform)",
+    "source": "data/data_img/Himari_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Himari (Armed)",
+    "source": "data/data_img/Himari_Armed_Icon.webp"
+  },
+  {
+    "name": "Himari (Winter)",
+    "source": "data/data_img/Himari_Winter_Icon.webp"
+  },
+  {
+    "name": "Hina",
+    "source": "data/data_img/Hina_Icon.webp"
+  },
+  {
+    "name": "Hina (Dress)",
+    "source": "data/data_img/Hina_Dress_Icon.webp"
+  },
+  {
+    "name": "Hina (Pajamas)",
+    "source": "data/data_img/Hina_Nightwear_Icon.webp"
+  },
+  {
+    "name": "Hina (Swimsuit)",
+    "source": "data/data_img/Hina_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hinata",
+    "source": "data/data_img/Hinata_Icon.webp"
+  },
+  {
+    "name": "Hinata (Swimsuit)",
+    "source": "data/data_img/Hinata_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hiromi",
+    "source": "data/data_img/Hiromi_Icon.webp"
+  },
+  {
+    "name": "Hiyori",
+    "source": "data/data_img/Hiyori_Icon.webp"
+  },
+  {
+    "name": "Hiyori (Swimsuit)",
+    "source": "data/data_img/Hiyori_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hoshino",
+    "source": "data/data_img/Hoshino_Icon.webp"
+  },
+  {
+    "name": "Hoshino (Armed)",
+    "source": "data/data_img/Hoshino_Armed_Icon.webp"
+  },
+  {
+    "name": "Hoshino (Robber)",
+    "source": "data/data_img/Hoshino_Robber_Icon.webp"
+  },
+  {
+    "name": "Hoshino (Swimsuit)",
+    "source": "data/data_img/Hoshino_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hoshino (Swimsuit Robber)",
+    "source": "data/data_img/Hoshino_Swimsuit_Robber_Icon.webp"
+  },
+  {
+    "name": "Hoshino*Terror",
+    "source": "data/data_img/Hoshino_Terror_Icon.webp"
+  },
+  {
+    "name": "Hoshino (Winter)",
+    "source": "data/data_img/Hoshino_Winter_Icon.webp"
+  },
+  {
+    "name": "Hoshino",
+    "source": "data/data_img/Hoshino_Young_Icon.webp"
+  },
+  {
+    "name": "Ibuki",
+    "source": "data/data_img/Ibuki_Icon.webp"
+  },
+  {
+    "name": "Ibuki (Dress)",
+    "source": "data/data_img/Ibuki_Dress_Icon.webp"
+  },
+  {
+    "name": "Ichika",
+    "source": "data/data_img/Ichika_Icon.webp"
+  },
+  {
+    "name": "Ichika (Suit)",
+    "source": "data/data_img/Ichika_Suit_Icon.webp"
+  },
+  {
+    "name": "Ichika (Swimsuit)",
+    "source": "data/data_img/Ichika_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Iori",
+    "source": "data/data_img/Iori_Icon.webp"
+  },
+  {
+    "name": "Iori (Swimsuit)",
+    "source": "data/data_img/Iori_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Iroha",
+    "source": "data/data_img/Iroha_Icon.webp"
+  },
+  {
+    "name": "Izumi",
+    "source": "data/data_img/Izumi_Icon.webp"
+  },
+  {
+    "name": "Izumi (New Year)",
+    "source": "data/data_img/Izumi_New_Year_Icon.webp"
+  },
+  {
+    "name": "Izumi (Swimsuit)",
+    "source": "data/data_img/Izumi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Izuna",
+    "source": "data/data_img/Izuna_Icon.webp"
+  },
+  {
+    "name": "Izuna (Dress)",
+    "source": "data/data_img/Izuna_Dress_Icon.webp"
+  },
+  {
+    "name": "Izuna (Swimsuit)",
+    "source": "data/data_img/Izuna_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Junko",
+    "source": "data/data_img/Junko_Icon.webp"
+  },
+  {
+    "name": "Junko (New Year)",
+    "source": "data/data_img/Junko_New_Year_Icon.webp"
+  },
+  {
+    "name": "Juri",
+    "source": "data/data_img/Juri_Icon.webp"
+  },
+  {
+    "name": "Juri (Part-Timer)",
+    "source": "data/data_img/Juri_Part_Timer_Icon.webp"
+  },
+  {
+    "name": "Kaede",
+    "source": "data/data_img/Kaede_Icon.webp"
+  },
+  {
+    "name": "Kaede (Guide)",
+    "source": "data/data_img/Kaede_Guide_Icon.webp"
+  },
+  {
+    "name": "Kaguya",
+    "source": "data/data_img/Kaguya_Icon.webp"
+  },
+  {
+    "name": "Kaguya",
+    "source": "data/data_img/Kaguya_Masked_Icon.webp"
+  },
+  {
+    "name": "Kaho",
+    "source": "data/data_img/Kaho_Icon.webp"
+  },
+  {
+    "name": "Kai",
+    "source": "data/data_img/Kai_Icon.webp"
+  },
+  {
+    "name": "Kanae",
+    "source": "data/data_img/Kanae_Icon.webp"
+  },
+  {
+    "name": "Kanna",
+    "source": "data/data_img/Kanna_Icon.webp"
+  },
+  {
+    "name": "Kanna (Swimsuit)",
+    "source": "data/data_img/Kanna_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Kanoe",
+    "source": "data/data_img/Kanoe_Icon.webp"
+  },
+  {
+    "name": "Karin",
+    "source": "data/data_img/Karin_Icon.webp"
+  },
+  {
+    "name": "Karin (Bunny)",
+    "source": "data/data_img/Karin_Bunny_Girl_Icon.webp"
+  },
+  {
+    "name": "Karin (School)",
+    "source": "data/data_img/Karin_Schoolgirl_Icon.webp"
+  },
+  {
+    "name": "Kasumi",
+    "source": "data/data_img/Kasumi_Icon.webp"
+  },
+  {
+    "name": "Kaya",
+    "source": "data/data_img/Kaya_Icon.webp"
+  },
+  {
+    "name": "Kayoko",
+    "source": "data/data_img/Kayoko_Icon.webp"
+  },
+  {
+    "name": "Kayoko (Ark Uniform)",
+    "source": "data/data_img/Kayoko_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Kayoko (Dress)",
+    "source": "data/data_img/Kayoko_Dress_Icon.webp"
+  },
+  {
+    "name": "Kayoko (New Year)",
+    "source": "data/data_img/Kayoko_New_Year_Icon.webp"
+  },
+  {
+    "name": "Kazusa",
+    "source": "data/data_img/Kazusa_Icon.webp"
+  },
+  {
+    "name": "Kazusa (Band)",
+    "source": "data/data_img/Kazusa_Band_Icon.webp"
+  },
+  {
+    "name": "Kazusa (Werewolf)",
+    "source": "data/data_img/Kazusa_Werewolf_Icon.webp"
+  },
+  {
+    "name": "Kei",
+    "source": "data/data_img/Kei_Icon.webp"
+  },
+  {
+    "name": "Kei (Prototype)",
+    "source": "data/data_img/Kei_Prototype_Icon.webp"
+  },
+  {
+    "name": "Kei (Robot)",
+    "source": "data/data_img/Kei_Robot_Icon.webp"
+  },
+  {
+    "name": "Kikyou",
+    "source": "data/data_img/Kikyou_Icon.webp"
+  },
+  {
+    "name": "Kikyou (Swimsuit)",
+    "source": "data/data_img/Kikyou_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Kirara",
+    "source": "data/data_img/Kirara_Icon.webp"
+  },
+  {
+    "name": "Kirino",
+    "source": "data/data_img/Kirino_Icon.webp"
+  },
+  {
+    "name": "Kirino (Pop Idol)",
+    "source": "data/data_img/Kirino_Idol_Icon.webp"
+  },
+  {
+    "name": "Kirino (Swimsuit)",
+    "source": "data/data_img/Kirino_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Kisaki",
+    "source": "data/data_img/Kisaki_Icon.webp"
+  },
+  {
+    "name": "Kisaki (Swimsuit)",
+    "source": "data/data_img/Kisaki_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Kisaki (Swimsuit)",
+    "source": "data/data_img/Kisaki_Swimsuit_2_Icon.webp"
+  },
+  {
+    "name": "Koharu",
+    "source": "data/data_img/Koharu_Icon.webp"
+  },
+  {
+    "name": "Koharu (Swimsuit)",
+    "source": "data/data_img/Koharu_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Kokona",
+    "source": "data/data_img/Kokona_Icon.webp"
+  },
+  {
+    "name": "Kokuriko",
+    "source": "data/data_img/Kokuriko_Icon.webp"
+  },
+  {
+    "name": "Konoka",
+    "source": "data/data_img/Konoka_Icon.webp"
+  },
+  {
+    "name": "Kotama",
+    "source": "data/data_img/Kotama_Icon.webp"
+  },
+  {
+    "name": "Kotama (Camp)",
+    "source": "data/data_img/Kotama_Camp_Icon.webp"
+  },
+  {
+    "name": "Kotama (Pajamas)",
+    "source": "data/data_img/Kotama_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Kotori",
+    "source": "data/data_img/Kotori_Icon.webp"
+  },
+  {
+    "name": "Kotori (Cheer Squad)",
+    "source": "data/data_img/Kotori_Cheerleader_Icon.webp"
+  },
+  {
+    "name": "Koyuki",
+    "source": "data/data_img/Koyuki_Icon.webp"
+  },
+  {
+    "name": "Kurumi",
+    "source": "data/data_img/Kurumi_Icon.webp"
+  },
+  {
+    "name": "Kuzunoha",
+    "source": "data/data_img/Kuzunoha_Icon.webp"
+  },
+  {
+    "name": "Mai",
+    "source": "data/data_img/Mai_Icon.webp"
+  },
+  {
+    "name": "Maia",
+    "source": "data/data_img/Maia_Icon.webp"
+  },
+  {
+    "name": "Maki",
+    "source": "data/data_img/Maki_Icon.webp"
+  },
+  {
+    "name": "Maki (Camp)",
+    "source": "data/data_img/Maki_Camp_Icon.webp"
+  },
+  {
+    "name": "Maki (Pajamas)",
+    "source": "data/data_img/Maki_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Makoto",
+    "source": "data/data_img/Makoto_Icon.webp"
+  },
+  {
+    "name": "Malkuth",
+    "source": "data/data_img/Malkuth_Icon.webp"
+  },
+  {
+    "name": "Malkuth (Hatless)",
+    "source": "data/data_img/Malkuth_Hatless_Icon.webp"
+  },
+  {
+    "name": "Mari",
+    "source": "data/data_img/Mari_Icon.webp"
+  },
+  {
+    "name": "Mari (Track)",
+    "source": "data/data_img/Mari_Gym_Icon.webp"
+  },
+  {
+    "name": "Mari (Pop Idol)",
+    "source": "data/data_img/Mari_Idol_Icon.webp"
+  },
+  {
+    "name": "Marina",
+    "source": "data/data_img/Marina_Icon.webp"
+  },
+  {
+    "name": "Marina (Qipao)",
+    "source": "data/data_img/Marina_Qipao_Icon.webp"
+  },
+  {
+    "name": "Mashiro",
+    "source": "data/data_img/Mashiro_Icon.webp"
+  },
+  {
+    "name": "Mashiro (Swimsuit)",
+    "source": "data/data_img/Mashiro_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Megu",
+    "source": "data/data_img/Megu_Icon.webp"
+  },
+  {
+    "name": "Meru",
+    "source": "data/data_img/Meru_Icon.webp"
+  },
+  {
+    "name": "Meru (Hot Spring)",
+    "source": "data/data_img/Meru_Hot_Spring_Icon.webp"
+  },
+  {
+    "name": "Michiru",
+    "source": "data/data_img/Michiru_Icon.webp"
+  },
+  {
+    "name": "Michiru (Dress)",
+    "source": "data/data_img/Michiru_Dress_Icon.webp"
+  },
+  {
+    "name": "Midori",
+    "source": "data/data_img/Midori_Icon.webp"
+  },
+  {
+    "name": "Midori (Maid)",
+    "source": "data/data_img/Midori_Maid_Icon.webp"
+  },
+  {
+    "name": "Midori (Winter)",
+    "source": "data/data_img/Midori_Winter_Icon.webp"
+  },
+  {
+    "name": "Mika",
+    "source": "data/data_img/Mika_Icon.webp"
+  },
+  {
+    "name": "Mika (Track)",
+    "source": "data/data_img/Mika_Gym_Icon.webp"
+  },
+  {
+    "name": "Mika (Swimsuit)",
+    "source": "data/data_img/Mika_School_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Mika (Swimsuit)",
+    "source": "data/data_img/Mika_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Hatsune Miku",
+    "source": "data/data_img/Miku_Icon.webp"
+  },
+  {
+    "name": "Mimori",
+    "source": "data/data_img/Mimori_Icon.webp"
+  },
+  {
+    "name": "Mimori (Swimsuit)",
+    "source": "data/data_img/Mimori_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Mina",
+    "source": "data/data_img/Mina_Icon.webp"
+  },
+  {
+    "name": "Mine",
+    "source": "data/data_img/Mine_Icon.webp"
+  },
+  {
+    "name": "Mine (Pop Idol)",
+    "source": "data/data_img/Mine_Idol_Icon.webp"
+  },
+  {
+    "name": "Minori",
+    "source": "data/data_img/Minori_Icon.webp"
+  },
+  {
+    "name": "Mirai",
+    "source": "data/data_img/Mirai_Icon.webp"
+  },
+  {
+    "name": "Miria",
+    "source": "data/data_img/Miria_Icon.webp"
+  },
+  {
+    "name": "Misaka Mikoto",
+    "source": "data/data_img/Misaka_Mikoto_Icon.webp"
+  },
+  {
+    "name": "Misaki",
+    "source": "data/data_img/Misaki_Icon.webp"
+  },
+  {
+    "name": "Misaki",
+    "source": "data/data_img/Misaki_Mask_Icon.webp"
+  },
+  {
+    "name": "Misaki (Swimsuit)",
+    "source": "data/data_img/Misaki_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Misuzu",
+    "source": "data/data_img/Misuzu_Icon.webp"
+  },
+  {
+    "name": "Miyako",
+    "source": "data/data_img/Miyako_Icon.webp"
+  },
+  {
+    "name": "Miyako (Swimsuit)",
+    "source": "data/data_img/Miyako_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Miyo",
+    "source": "data/data_img/Miyo_Icon.webp"
+  },
+  {
+    "name": "Miyu",
+    "source": "data/data_img/Miyu_Icon.webp"
+  },
+  {
+    "name": "Miyu (Swimsuit)",
+    "source": "data/data_img/Miyu_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Mob (Arius)",
+    "source": "data/data_img/mob_Arius.webp"
+  },
+  {
+    "name": "Mob (Arius)",
+    "source": "data/data_img/mob_Arius_2.webp"
+  },
+  {
+    "name": "Mob (Gehenna)",
+    "source": "data/data_img/mob_DC.webp"
+  },
+  {
+    "name": "Mob (Gehenna)",
+    "source": "data/data_img/mob_EMC.webp"
+  },
+  {
+    "name": "Mob (Gehenna)",
+    "source": "data/data_img/mob_HSDD.webp"
+  },
+  {
+    "name": "Mob (Hyakkiyako)",
+    "source": "data/data_img/mob_Hyakkiyako.webp"
+  },
+  {
+    "name": "Mob (Hyakkiyako)",
+    "source": "data/data_img/mob_Hyakkiyako_2.webp"
+  },
+  {
+    "name": "Mob (JTF)",
+    "source": "data/data_img/mob_JTF.webp"
+  },
+  {
+    "name": "Mob (Justina)",
+    "source": "data/data_img/mob_Justina.webp"
+  },
+  {
+    "name": "Mob (Justina)",
+    "source": "data/data_img/mob_Justina_2.webp"
+  },
+  {
+    "name": "Mob (Millennium)",
+    "source": "data/data_img/mob_Millennium.webp"
+  },
+  {
+    "name": "Mob (Millennium)",
+    "source": "data/data_img/mob_Millennium_2.webp"
+  },
+  {
+    "name": "Mob (Gehenna)",
+    "source": "data/data_img/mob_PS.webp"
+  },
+  {
+    "name": "Mob (Red Winter)",
+    "source": "data/data_img/mob_RWOG.webp"
+  },
+  {
+    "name": "Mob (Red Winter)",
+    "source": "data/data_img/mob_RWPT.webp"
+  },
+  {
+    "name": "Mob (Shanhaijing)",
+    "source": "data/data_img/mob_Shanhaijing.webp"
+  },
+  {
+    "name": "Mob (Shanhaijing)",
+    "source": "data/data_img/mob_Shanhaijing_2.webp"
+  },
+  {
+    "name": "Mob (Sisterhood)",
+    "source": "data/data_img/mob_Sisterhood.webp"
+  },
+  {
+    "name": "Mob (Tea Party)",
+    "source": "data/data_img/mob_Tea_Party.webp"
+  },
+  {
+    "name": "Mob (Tea Party)",
+    "source": "data/data_img/mob_Tea_Party_2.webp"
+  },
+  {
+    "name": "Mob (Trinity)",
+    "source": "data/data_img/mob_Trinity.webp"
+  },
+  {
+    "name": "Mob (Valkyrie)",
+    "source": "data/data_img/mob_Valkyrie.webp"
+  },
+  {
+    "name": "Mob (Shanhaijing)",
+    "source": "data/data_img/mob_XMA.webp"
+  },
+  {
+    "name": "Mob (Shanhaijing)",
+    "source": "data/data_img/mob_XOM.webp"
+  },
+  {
+    "name": "Moe",
+    "source": "data/data_img/Moe_Icon.webp"
+  },
+  {
+    "name": "Moe (Swimsuit)",
+    "source": "data/data_img/Moe_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Momiji",
+    "source": "data/data_img/Momiji_Icon.webp"
+  },
+  {
+    "name": "Momoi",
+    "source": "data/data_img/Momoi_Icon.webp"
+  },
+  {
+    "name": "Momoi (Maid)",
+    "source": "data/data_img/Momoi_Maid_Icon.webp"
+  },
+  {
+    "name": "Momoi (Winter)",
+    "source": "data/data_img/Momoi_Winter_Icon.webp"
+  },
+  {
+    "name": "Momoka",
+    "source": "data/data_img/Momoka_Icon.webp"
+  },
+  {
+    "name": "Momoka (Ark Uniform)",
+    "source": "data/data_img/Momoka_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Mutsuki",
+    "source": "data/data_img/Mutsuki_Icon.webp"
+  },
+  {
+    "name": "Mutsuki (New Year)",
+    "source": "data/data_img/Mutsuki_New_Year_Icon.webp"
+  },
+  {
+    "name": "Mutsuki (Suit)",
+    "source": "data/data_img/Mutsuki_Suit_Icon.webp"
+  },
+  {
+    "name": "Nagisa",
+    "source": "data/data_img/Nagisa_Icon.webp"
+  },
+  {
+    "name": "Nagisa (Swimsuit)",
+    "source": "data/data_img/Nagisa_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Nagomi",
+    "source": "data/data_img/Nagomi_Icon.webp"
+  },
+  {
+    "name": "Nagusa",
+    "source": "data/data_img/Nagusa_Icon.webp"
+  },
+  {
+    "name": "Natsu",
+    "source": "data/data_img/Natsu_Icon.webp"
+  },
+  {
+    "name": "Natsu (Band)",
+    "source": "data/data_img/Natsu_Band_Icon.webp"
+  },
+  {
+    "name": "Natsu (Frankenstein)",
+    "source": "data/data_img/Natsu_Frankenstein_Icon.webp"
+  },
+  {
+    "name": "Natsuki",
+    "source": "data/data_img/Natsuki_Icon.webp"
+  },
+  {
+    "name": "Neru",
+    "source": "data/data_img/Neru_Icon.webp"
+  },
+  {
+    "name": "Neru (Bunny)",
+    "source": "data/data_img/Neru_Bunny_Girl_Icon.webp"
+  },
+  {
+    "name": "Neru (School)",
+    "source": "data/data_img/Neru_Schoolgirl_Icon.webp"
+  },
+  {
+    "name": "Niko",
+    "source": "data/data_img/Niko_Icon.webp"
+  },
+  {
+    "name": "Niko (Part-Timer)",
+    "source": "data/data_img/Niko_Part_Timer_Icon.webp"
+  },
+  {
+    "name": "Niya",
+    "source": "data/data_img/Niya_Icon.webp"
+  },
+  {
+    "name": "Noa",
+    "source": "data/data_img/Noa_Icon.webp"
+  },
+  {
+    "name": "Noa (Pajamas)",
+    "source": "data/data_img/Noa_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Nodoka",
+    "source": "data/data_img/Nodoka_Icon.webp"
+  },
+  {
+    "name": "Nodoka (Hot Spring)",
+    "source": "data/data_img/Nodoka_Hot_Spring_Icon.webp"
+  },
+  {
+    "name": "Nonomi",
+    "source": "data/data_img/Nonomi_Icon.webp"
+  },
+  {
+    "name": "Nonomi (Robber)",
+    "source": "data/data_img/Nonomi_Robber_Icon.webp"
+  },
+  {
+    "name": "Nonomi (Swimsuit)",
+    "source": "data/data_img/Nonomi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Nonomi (Swimsuit Robber)",
+    "source": "data/data_img/Nonomi_Swimsuit_Robber_Icon.webp"
+  },
+  {
+    "name": "Nonomi (Winter)",
+    "source": "data/data_img/Nonomi_Winter_Icon.webp"
+  },
+  {
+    "name": "Nonomi",
+    "source": "data/data_img/Nonomi_Young_Icon.webp"
+  },
+  {
+    "name": "Nozomi",
+    "source": "data/data_img/Nozomi_Icon.webp"
+  },
+  {
+    "name": "Ohr",
+    "source": "data/data_img/Ohr_Icon.webp"
+  },
+  {
+    "name": "Otogi",
+    "source": "data/data_img/Otogi_Icon.webp"
+  },
+  {
+    "name": "Pina",
+    "source": "data/data_img/Pina_Icon.webp"
+  },
+  {
+    "name": "Pina (Guide)",
+    "source": "data/data_img/Pina_Guide_Icon.webp"
+  },
+  {
+    "name": "Plana",
+    "source": "data/data_img/Plana_Icon.webp"
+  },
+  {
+    "name": "Rabu",
+    "source": "data/data_img/Rabu_Icon.webp"
+  },
+  {
+    "name": "Rei",
+    "source": "data/data_img/Rei_Icon.webp"
+  },
+  {
+    "name": "Reijo",
+    "source": "data/data_img/Reijo_Icon.webp"
+  },
+  {
+    "name": "Reisa",
+    "source": "data/data_img/Reisa_Icon.webp"
+  },
+  {
+    "name": "Reisa (Magical)",
+    "source": "data/data_img/Reisa_Magical_Icon.webp"
+  },
+  {
+    "name": "Rena",
+    "source": "data/data_img/Rena_Icon.webp"
+  },
+  {
+    "name": "Renge",
+    "source": "data/data_img/Renge_Icon.webp"
+  },
+  {
+    "name": "Renge (Swimsuit)",
+    "source": "data/data_img/Renge_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Riku",
+    "source": "data/data_img/Riku_Icon.webp"
+  },
+  {
+    "name": "Rin",
+    "source": "data/data_img/Rin_Icon.webp"
+  },
+  {
+    "name": "Rin (Ark Uniform)",
+    "source": "data/data_img/Rin_Ark_Uniform_Icon.webp"
+  },
+  {
+    "name": "Rin (Casual)",
+    "source": "data/data_img/Rin_Casual_Icon.webp"
+  },
+  {
+    "name": "Rio",
+    "source": "data/data_img/Rio_Icon.webp"
+  },
+  {
+    "name": "Rio (Armed)",
+    "source": "data/data_img/Rio_Armed_Icon.webp"
+  },
+  {
+    "name": "Rio (Winter)",
+    "source": "data/data_img/Rio_Winter_Icon.webp"
+  },
+  {
+    "name": "Ritsu",
+    "source": "data/data_img/Ritsu_Icon.webp"
+  },
+  {
+    "name": "Rumi",
+    "source": "data/data_img/Rumi_Icon.webp"
+  },
+  {
+    "name": "Rumi",
+    "source": "data/data_img/Rumi_Young_Icon.webp"
+  },
+  {
+    "name": "Saki",
+    "source": "data/data_img/Saki_Icon.webp"
+  },
+  {
+    "name": "Saki (Swimsuit)",
+    "source": "data/data_img/Saki_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Sakurako",
+    "source": "data/data_img/Sakurako_Icon.webp"
+  },
+  {
+    "name": "Sakurako (Pop Idol)",
+    "source": "data/data_img/Sakurako_Idol_Icon.webp"
+  },
+  {
+    "name": "Saori",
+    "source": "data/data_img/Saori_Icon.webp"
+  },
+  {
+    "name": "Saori (Dress)",
+    "source": "data/data_img/Saori_Dress_Icon.webp"
+  },
+  {
+    "name": "Saori (Dress)",
+    "source": "data/data_img/Saori_Dress_2_Icon.webp"
+  },
+  {
+    "name": "Saori (Swimsuit)",
+    "source": "data/data_img/Saori_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Saori",
+    "source": "data/data_img/Saori_Unmask_Icon.webp"
+  },
+  {
+    "name": "Saten Ruiko",
+    "source": "data/data_img/Saten_Ruiko_Icon.webp"
+  },
+  {
+    "name": "Satsuki",
+    "source": "data/data_img/Satsuki_Icon.webp"
+  },
+  {
+    "name": "Saya",
+    "source": "data/data_img/Saya_Icon.webp"
+  },
+  {
+    "name": "Saya (Casual)",
+    "source": "data/data_img/Saya_Casual_Icon.webp"
+  },
+  {
+    "name": "Seia",
+    "source": "data/data_img/Seia_Icon.webp"
+  },
+  {
+    "name": "Seia (Swimsuit)",
+    "source": "data/data_img/Seia_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Sena",
+    "source": "data/data_img/Sena_Icon.webp"
+  },
+  {
+    "name": "Sena (Casual)",
+    "source": "data/data_img/Sena_Casual_Icon.webp"
+  },
+  {
+    "name": "Serika",
+    "source": "data/data_img/Serika_Icon.webp"
+  },
+  {
+    "name": "Serika (Pop Idol)",
+    "source": "data/data_img/Serika_Idol_Icon.webp"
+  },
+  {
+    "name": "Serika (New Year)",
+    "source": "data/data_img/Serika_New_Year_Icon.webp"
+  },
+  {
+    "name": "Serika (Robber)",
+    "source": "data/data_img/Serika_Robber_Icon.webp"
+  },
+  {
+    "name": "Serika (Shibaseki)",
+    "source": "data/data_img/Serika_Shibaseki_Icon.webp"
+  },
+  {
+    "name": "Serika (Swimsuit)",
+    "source": "data/data_img/Serika_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Serina",
+    "source": "data/data_img/Serina_Icon.webp"
+  },
+  {
+    "name": "Serina (Christmas)",
+    "source": "data/data_img/Serina_Christmas_Icon.webp"
+  },
+  {
+    "name": "Serina (Nurse)",
+    "source": "data/data_img/Serina_Nurse_Icon.webp"
+  },
+  {
+    "name": "Shigure",
+    "source": "data/data_img/Shigure_Icon.webp"
+  },
+  {
+    "name": "Shigure (Hot Spring)",
+    "source": "data/data_img/Shigure_Hot_Spring_Icon.webp"
+  },
+  {
+    "name": "Shimiko",
+    "source": "data/data_img/Shimiko_Icon.webp"
+  },
+  {
+    "name": "Shimiko (Magical)",
+    "source": "data/data_img/Shimiko_Magical_Icon.webp"
+  },
+  {
+    "name": "Shinon",
+    "source": "data/data_img/Shinon_Icon.webp"
+  },
+  {
+    "name": "Shiroko",
+    "source": "data/data_img/Shiroko_Icon.webp"
+  },
+  {
+    "name": "Shiroko (Riding)",
+    "source": "data/data_img/Shiroko_Riding_Icon.webp"
+  },
+  {
+    "name": "Shiroko (Robber)",
+    "source": "data/data_img/Shiroko_Robber_Icon.webp"
+  },
+  {
+    "name": "Shiroko (Swimsuit)",
+    "source": "data/data_img/Shiroko_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Shiroko*Terror",
+    "source": "data/data_img/Shiroko_Terror_2_Icon.webp"
+  },
+  {
+    "name": "Shiroko*Terror (Robber)",
+    "source": "data/data_img/Shiroko_Terror_Robber_Icon.webp"
+  },
+  {
+    "name": "Shiroko (Young)",
+    "source": "data/data_img/Shiroko_Young_Icon.webp"
+  },
+  {
+    "name": "Shizuko",
+    "source": "data/data_img/Shizuko_Icon.webp"
+  },
+  {
+    "name": "Shizuko (Swimsuit)",
+    "source": "data/data_img/Shizuko_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Shokuhou Misaki",
+    "source": "data/data_img/Shokuhou_Misaki_Icon.webp"
+  },
+  {
+    "name": "Shun",
+    "source": "data/data_img/Shun_Icon.webp"
+  },
+  {
+    "name": "Shun (Swimsuit)",
+    "source": "data/data_img/Shun_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Shun (Small)",
+    "source": "data/data_img/Shun_Young_Icon.webp"
+  },
+  {
+    "name": "Shun (Swimsuit)",
+    "source": "data/data_img/Shun_Young_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Shuro",
+    "source": "data/data_img/Shuro_Icon.webp"
+  },
+  {
+    "name": "Smiling Professor",
+    "source": "data/data_img/Smiling_Professor_Icon.webp"
+  },
+  {
+    "name": "Sof",
+    "source": "data/data_img/Sof_Icon.webp"
+  },
+  {
+    "name": "Sora",
+    "source": "data/data_img/Sora_Icon.webp"
+  },
+  {
+    "name": "Subaru",
+    "source": "data/data_img/Subaru_Icon.webp"
+  },
+  {
+    "name": "Suiko",
+    "source": "data/data_img/Suiko_Icon.webp"
+  },
+  {
+    "name": "Sumire",
+    "source": "data/data_img/Sumire_Icon.webp"
+  },
+  {
+    "name": "Sumire (Part-Timer)",
+    "source": "data/data_img/Sumire_Part_Timer_Icon.webp"
+  },
+  {
+    "name": "Sumomo",
+    "source": "data/data_img/Sumomo_Icon.webp"
+  },
+  {
+    "name": "Suou",
+    "source": "data/data_img/Suou_Icon.webp"
+  },
+  {
+    "name": "Suou (Coatless)",
+    "source": "data/data_img/Suou_Coatless_Icon.webp"
+  },
+  {
+    "name": "Suzumi",
+    "source": "data/data_img/Suzumi_Icon.webp"
+  },
+  {
+    "name": "Suzumi (Magical)",
+    "source": "data/data_img/Suzumi_Magical_Icon.webp"
+  },
+  {
+    "name": "Takane",
+    "source": "data/data_img/Takane_Icon.webp"
+  },
+  {
+    "name": "Toki",
+    "source": "data/data_img/Toki_Icon.webp"
+  },
+  {
+    "name": "Toki (Abi-Eshufu)",
+    "source": "data/data_img/Toki_Abi-Eshufu_Icon.webp"
+  },
+  {
+    "name": "Toki (Armed)",
+    "source": "data/data_img/Toki_Armed_Icon.webp"
+  },
+  {
+    "name": "Toki (Bunny)",
+    "source": "data/data_img/Toki_Bunny_Girl_Icon.webp"
+  },
+  {
+    "name": "Toki (School)",
+    "source": "data/data_img/Toki_Schoolgirl_Icon.webp"
+  },
+  {
+    "name": "Tomoe",
+    "source": "data/data_img/Tomoe_Icon.webp"
+  },
+  {
+    "name": "Tomoe (Qipao)",
+    "source": "data/data_img/Tomoe_Qipao_Icon.webp"
+  },
+  {
+    "name": "Tsubaki",
+    "source": "data/data_img/Tsubaki_Icon.webp"
+  },
+  {
+    "name": "Tsubaki (Guide)",
+    "source": "data/data_img/Tsubaki_Guide_Icon.webp"
+  },
+  {
+    "name": "Tsubasa",
+    "source": "data/data_img/Tsubasa_Icon.webp"
+  },
+  {
+    "name": "Tsukuyo",
+    "source": "data/data_img/Tsukuyo_Icon.webp"
+  },
+  {
+    "name": "Tsukuyo (Dress)",
+    "source": "data/data_img/Tsukuyo_Dress_Icon.webp"
+  },
+  {
+    "name": "Tsumugi",
+    "source": "data/data_img/Tsumugi_Icon.webp"
+  },
+  {
+    "name": "Tsurugi",
+    "source": "data/data_img/Tsurugi_Icon.webp"
+  },
+  {
+    "name": "Tsurugi (Dress)",
+    "source": "data/data_img/Tsurugi_Dress_Icon.webp"
+  },
+  {
+    "name": "Tsurugi (Swimsuit)",
+    "source": "data/data_img/Tsurugi_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Ui",
+    "source": "data/data_img/Ui_Icon.webp"
+  },
+  {
+    "name": "Ui (Swimsuit)",
+    "source": "data/data_img/Ui_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Umika",
+    "source": "data/data_img/Umika_Icon.webp"
+  },
+  {
+    "name": "Utaha",
+    "source": "data/data_img/Utaha_Icon.webp"
+  },
+  {
+    "name": "Utaha (Cheer Squad)",
+    "source": "data/data_img/Utaha_Cheerleader_Icon.webp"
+  },
+  {
+    "name": "Wakamo",
+    "source": "data/data_img/Wakamo_Icon.webp"
+  },
+  {
+    "name": "Wakamo (Kimono)",
+    "source": "data/data_img/Wakamo_Kimono_Icon.webp"
+  },
+  {
+    "name": "Wakamo (Swimsuit)",
+    "source": "data/data_img/Wakamo_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Wakamo (Swimsuit)",
+    "source": "data/data_img/Wakamo_Swimsuit_Unmask_Icon.webp"
+  },
+  {
+    "name": "Wakamo",
+    "source": "data/data_img/Wakamo_Unmask_Icon.webp"
+  },
+  {
+    "name": "Yakumo",
+    "source": "data/data_img/Yakumo_Icon.webp"
+  },
+  {
+    "name": "Yoshimi",
+    "source": "data/data_img/Yoshimi_Icon.webp"
+  },
+  {
+    "name": "Yoshimi (Band)",
+    "source": "data/data_img/Yoshimi_Band_Icon.webp"
+  },
+  {
+    "name": "Yoshimi (Mummy)",
+    "source": "data/data_img/Yoshimi_Mummy_Icon.webp"
+  },
+  {
+    "name": "Youko",
+    "source": "data/data_img/Youko_Icon.webp"
+  },
+  {
+    "name": "Yukari",
+    "source": "data/data_img/Yukari_Icon.webp"
+  },
+  {
+    "name": "Yukari (School)",
+    "source": "data/data_img/Yukari_Middle_School_Icon.webp"
+  },
+  {
+    "name": "Yukari (Miko)",
+    "source": "data/data_img/Yukari_Miko_Icon.webp"
+  },
+  {
+    "name": "Yukari (Swimsuit)",
+    "source": "data/data_img/Yukari_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Yukino",
+    "source": "data/data_img/Yukino_Icon.webp"
+  },
+  {
+    "name": "Yume",
+    "source": "data/data_img/Yume_Icon.webp"
+  },
+  {
+    "name": "Yume (Swimsuit)",
+    "source": "data/data_img/Yume_Swimsuit_Icon.webp"
+  },
+  {
+    "name": "Yuuka",
+    "source": "data/data_img/Yuuka_Icon.webp"
+  },
+  {
+    "name": "Yuuka (Track)",
+    "source": "data/data_img/Yuuka_Gym_Icon.webp"
+  },
+  {
+    "name": "Yuuka (Pajamas)",
+    "source": "data/data_img/Yuuka_Pajamas_Icon.webp"
+  },
+  {
+    "name": "Yuzu",
+    "source": "data/data_img/Yuzu_Icon.webp"
+  },
+  {
+    "name": "Yuzu (Armed)",
+    "source": "data/data_img/Yuzu_Armed_Icon.webp"
+  },
+  {
+    "name": "Yuzu (Maid)",
+    "source": "data/data_img/Yuzu_Maid_Icon.webp"
+  },
+  {
+    "name": "Yuzu (Winter)",
+    "source": "data/data_img/Yuzu_Winter_Icon.webp"
+  }
+]
