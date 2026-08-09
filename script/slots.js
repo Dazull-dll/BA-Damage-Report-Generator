@@ -138,7 +138,7 @@ export function createSlot(type, isFirst) {
     const img = document.createElement("img");
     img.className = "icons";
     img.src = "icons/void.png";
-    img.alt = "Logo";
+    img.alt = "";
     imagen.appendChild(img);
     const name = document.createElement("div");
     name.className = "name";

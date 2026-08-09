@@ -4,24 +4,25 @@
   font-weight: 100 900;
   font-style: normal;
 }
+
 @font-face {
   font-family: "Noto Sans";
   src: url(../fonts/NotoSans-Italic-VariableFont_wdth,wght.ttf);
   font-weight: 100 900;
   font-style: italic;
 }
+
 :root {
   --wbox: 104.004px;
   --color_main: #0a1f35;
   --color_accent: #10678e;
   --color_accent_hover: #2396ba;
   --color_background:
-    linear-gradient(var(--color_accent_hover), transparent), var(--color_accent);
+    linear-gradient(var(--color_accent_hover), transparent),var(--color_accent);
   --color_download: #458500;
   --color_download_hover: #57a900;
   --color_download_background:
-    linear-gradient(var(--color_download_hover), transparent),
-    var(--color_download);
+    linear-gradient(var(--color_download_hover), transparent),var(--color_download);
   --color_danger: #c53515;
   --color_danger_hover: #f44b23;
   --color_danger_background:
@@ -32,19 +33,25 @@
   --text_label: #64748b;
   --font-stack: "Noto Sans", "Inter", "Helvetica Neue", Arial, sans-serif;
 }
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 html {
   scrollbar-width: 10px;
   scrollbar-color: var(--color_main) transparent;
 }
+
 body {
   background-color: var(--bg_page);
   font-family: var(--font-stack);
 }
-a,a:link,a:visited {
+
+a,
+a:link,
+a:visited {
   text-decoration: none;
 }
